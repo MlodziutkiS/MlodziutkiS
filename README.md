@@ -55,12 +55,10 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MlodziutkiS/MlodziutkiS/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
+  <h2>Contact me</h2>
   <a href="mailto:8500303u@elektryk.edu.pl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
